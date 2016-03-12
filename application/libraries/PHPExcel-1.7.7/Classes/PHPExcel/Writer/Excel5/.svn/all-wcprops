@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5
+END
+BIFFwriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php
+END
+Workbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Workbook.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Worksheet.php
+END
+Xf.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Xf.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Font.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Parser.php
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Writer/Excel5/Escher.php
+END

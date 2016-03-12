@@ -1,0 +1,46 @@
+[30-Jun-2015 10:41:22 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 10:41:22 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 10:45:57 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home/metal/public_html/pushservices/index.php on line 32
+[30-Jun-2015 10:45:57 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 32
+[30-Jun-2015 10:45:57 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 32
+[30-Jun-2015 10:46:27 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 32
+[30-Jun-2015 10:46:27 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 32
+[30-Jun-2015 10:53:34 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 26
+[30-Jun-2015 10:53:34 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 26
+[30-Jun-2015 10:59:29 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 10:59:29 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:09:04 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:09:04 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:09:07 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:09:07 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:11:14 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/metal/public_html/pushservices/index.php on line 29
+[30-Jun-2015 11:11:14 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home/metal/public_html/pushservices/index.php on line 29
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit t in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit o in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit k in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit u in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:35:29 UTC] PHP Warning:  pack(): Type H: illegal hex digit m in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit t in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit o in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit k in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit u in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:26 UTC] PHP Warning:  pack(): Type H: illegal hex digit m in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit t in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit o in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit k in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit u in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:28 UTC] PHP Warning:  pack(): Type H: illegal hex digit m in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit t in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit o in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit k in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit n in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit u in /home/metal/public_html/pushservices/index.php on line 55
+[01-Jul-2015 07:36:52 UTC] PHP Warning:  pack(): Type H: illegal hex digit m in /home/metal/public_html/pushservices/index.php on line 55

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/CSV.php
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/Gnumeric.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/IReadFilter.php
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/Excel2007.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/IReader.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/Excel5.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/Excel2003XML.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/OOCalc.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Reader/SYLK.php
+END

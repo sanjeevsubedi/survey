@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registration id="C500A1B6BE3043D49D02C78FCBC9F0D5">
+  <exhibition>SingleBusinessCard</exhibition>
+  <aitem suid="ext.meplan.a.Charlie.2013061409-56-02-2">
+    <fields>
+      <company>Meplan GmbH</company>
+      <company2 />
+      <country>DE</country>
+      <email>hitzler@meplan.de</email>
+      <first_name>Andreas</first_name>
+      <gender>1</gender>
+      <modifier_system>visit:meplan</modifier_system>
+      <name>Hitzler</name>
+      <title>Dipl. - Ing. (FH)</title>
+    </fields>
+    <categories />
+    <freefields>
+      <ff label="privacy_provisions">1</ff>
+      <ff label="reg_language">de</ff>
+    </freefields>
+  </aitem>
+</registration>

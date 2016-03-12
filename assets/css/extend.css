@@ -1,0 +1,70 @@
+/*---------------------- IMPORT USERS EXCEL FILE UPLOAD -----------------------*/
+.upload_file {
+  float: left;
+  margin-top: 20px;
+  margin-left: 140px;
+  border-top: 1px solid #e9e9e9;
+  padding-top: 10px;
+  width: 600px;
+}
+.upload_file input[type=file] {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  cursor: pointer;
+  width: 180px;
+}
+.upload_file button {
+  margin: 0;
+  padding: 5px 10px;
+  border: 0;
+  background: #abe1fa;
+  background: -webkit-linear-gradient(to bottom, #abe1fa 0%, #00b2f0 100%);
+  background: -moz-linear-gradient(to bottom, #abe1fa 0%, #00b2f0 100%);
+  background: -o-linear-gradient(to bottom, #abe1fa 0%, #00b2f0 100%);
+  background: -ms-linear-gradient(to bottom, #abe1fa 0%, #00b2f0 100%);
+  background: linear-gradient(to bottom, #abe1fa 0%, #00b2f0 100%);
+  color: #fff;
+  font-family: "LucidaSansStd", "Lucida Sans Std", Helvetica, sans-serif;
+  border: 1px solid #333333;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.upload_file .import-instruction {
+  color: #1BB8F1;
+  font-weight: bold;
+}
+/*-- ICONS --*/
+.icon-import {
+  float: left;
+  width: 16px;
+  height: 16px;
+  background: transparent url(../img/icon-import.png) 0 0 no-repeat;
+  margin-right: 10px;
+}
+.edit a.logic {
+  background-image: url(../img/icon-link.png);
+}
+.edit a.na {
+  background-image: url(../img/icon-link-na.png);
+  cursor: default;
+}
+/*-- quick search box - of plugin - table searching --*/
+.formInner #accordion fieldset .quicksearch {
+  clear: both;
+}
+.formInner #accordion fieldset .quicksearch label {
+  float: left;
+  margin-left: 0;
+  font-weight: normal;
+  margin-right: 10px;
+}
+.formInner #accordion fieldset .quicksearch label:first-child {
+  line-height: 40px !important;
+}
+.formInner #accordion fieldset .quicksearch #tableOne {
+  clear: both;
+}
+input[type="submit"].logics-save {
+  margin-left: 352px;
+}

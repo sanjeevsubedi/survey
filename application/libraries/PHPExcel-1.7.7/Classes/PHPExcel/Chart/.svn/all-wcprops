@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/Title.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/Layout.php
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/Legend.php
+END
+PlotArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/PlotArea.php
+END
+DataSeries.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/DataSeries.php
+END
+DataSeriesValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Chart/DataSeriesValues.php
+END

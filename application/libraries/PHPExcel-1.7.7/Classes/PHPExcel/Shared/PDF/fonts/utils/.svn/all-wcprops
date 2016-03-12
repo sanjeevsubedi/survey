@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/README.TXT
+END
+ttf2ufm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/ttf2ufm
+END
+pfm2afm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/pfm2afm.exe
+END
+ttf2ufm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/ttf2ufm.exe
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/freetype6.dll
+END
+makefont.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/makefont.php
+END
+makeallttffonts.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/makeallttffonts.php
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/zlib1.dll
+END
+pfm2afm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/PDF/fonts/utils/pfm2afm
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA
+END
+QRDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php
+END
+CholeskyDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT
+END
+SingularValueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php
+END
+LUDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php
+END
+Matrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/Matrix.php
+END
+EigenvalueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnadmin/public/svn/CiscoWebService/!svn/ver/57/trunk/PHPExcel-1.7.7/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php
+END
